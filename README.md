@@ -9,7 +9,7 @@ This application displays onto a browser as a webpage. I used this as my first e
 * Access the hello_world.html file and click on it.
 * It displays on a web browser.
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. This code can run on locally and on the web depending on where it is stored. You do not need to install any dependencies. You do not require any special configurations for the browser. This code does not depend on any other app.
+This code can run on locally and on the web depending on where it is stored. You do not need to install any dependencies. You do not require any special configurations for the browser. This code does not depend on any other app.
 ## Known Bugs
 No known bugs
 ## Technologies Used
